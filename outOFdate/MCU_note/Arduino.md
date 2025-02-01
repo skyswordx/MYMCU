@@ -310,7 +310,7 @@ void loop()
 录视频来分析运行情况，进行debug
 
 # 红外模块
-[[1838红外接收器的结构.excalidraw]]
+[[外围设备/image/1838红外接收器的结构.excalidraw]]
 
 [Arduino测试IRremote红外接收信号（同一按钮，多个结果）问题解决_arduino irremote_eamonwu68的博客-CSDN博客](https://blog.csdn.net/eamonwu68/article/details/129867813)
 
@@ -361,7 +361,7 @@ void setup(){
 [超声波避障](https://ost.51cto.com/posts/787)
 超声波模块一般装在有伺服舵机的云台上面
 
-首先了解伺服舵机和超声波模块![[HC-SR04超声波模块.excalidraw]]
+首先了解伺服舵机和超声波模块![[外围设备/image/HC-SR04超声波模块.excalidraw]]
 
 1.包含伺服舵机头文件Sevro.h
 2.准备变量
